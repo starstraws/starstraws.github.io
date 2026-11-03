@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://starstraws.github.io/sitemap.xml
