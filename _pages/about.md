@@ -29,4 +29,4 @@ I am a graduate student at Sun Yat-sen University interested in speech understan
 - **Speech processing:** Transcribing conversations with background noise, regional accents, and overlapping speakers.
 - **Applications:** Using speech understanding to help detect telecom fraud.
 
-[GitHub](https://github.com/starstraws)
+[Email](mailto:tangy326@mail2.sysu.edu.cn) · [GitHub](https://github.com/starstraws)
