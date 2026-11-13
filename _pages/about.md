@@ -14,7 +14,14 @@ latest_posts:
   enabled: false
 ---
 
-I am a graduate student interested in speech understanding and audio-language models. My research explores how models can reason about both what people say and how they say it.
+I am a graduate student at Sun Yat-sen University interested in speech understanding and audio-language models. My research explores how models can reason about both what people say and how they say it.
+
+## Education
+
+- **Sun Yat-sen University** · School of Computer Science and Engineering  
+  Master's program in Computer Technology · Expected June 2028
+- **South China University of Technology** · School of Computer Science and Engineering  
+  Computer Science and Technology (Dual-Degree Program) · 2021–2025
 
 ## Research interests
 
