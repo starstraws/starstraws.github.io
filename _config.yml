@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Tang
+first_name: Yang
 middle_name:
-last_name: Yang
+last_name: Tang
 contact_note:
 description: Research and projects in speech and audio understanding.
 footer_text: >
