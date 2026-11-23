@@ -3,6 +3,11 @@ layout: about
 title: About
 permalink: /
 subtitle: Master's student at Sun Yat-sen University · Audio and speech understanding
+profile:
+  align: right
+  image: yang-tang.jpg
+  image_circular: false
+
 selected_papers: false
 social: false
 announcements:
