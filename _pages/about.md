@@ -34,13 +34,9 @@ Academic rank: **5 / 224** (top 3%).
 Computer Science and Technology (Dual-Degree Program) · September 2021 – June 2025  
 Academic rank: **2 / 49** (top 4%). Admitted to Sun Yat-sen University through postgraduate recommendation.
 
-## Research
+## Selected work
 
 - **Audio-language models for telecom fraud detection** · Semantic and acoustic pathways, FLQ-Adapter, and role-specific alignment. Fraud-detection weighted F1 of **98.13%**.
-
-[Read research details]({{ '/research/' | relative_url }})
-
-## Projects
 
 - **Service conversation transcription** · FSMN-VAD, FRCRN, and audio-language models for service-counter and on-site recordings. Prototype under validation.
 - **Maritime speaker verification** · Contributed to a momentum contrastive learning approach with multimodal feature fusion. Related output includes a granted invention patent.

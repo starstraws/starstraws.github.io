@@ -23,14 +23,10 @@ Academic rank: **5 / 224** (top 3%).
 Computer Science and Technology (Dual-Degree Program) · September 2021 – June 2025  
 Academic rank: **2 / 49** (top 4%). Admitted to Sun Yat-sen University through postgraduate recommendation.
 
-## Research experience
+## Research and project experience
 
 **Audio-language models for telecom fraud detection** · September 2025 – September 2026  
 Dual semantic and acoustic pathways, FLQ-Adapter, ParaScam, and role-specific teacher alignment. Achieved 98.13% fraud-detection weighted F1 and 88.61% average weighted F1 across three tasks on TeleAntiFraud.
-
-[Full research description]({{ '/research/' | relative_url }})
-
-## Project experience
 
 **Telecom service conversation transcription** · October 2026 – present  
 Scene-specific pipelines combining FSMN-VAD, FRCRN, and audio-language models. Built a speaker-annotated transcription prototype with timestamps and business-text organization. Real-recording validation and local deployment debugging are ongoing.
